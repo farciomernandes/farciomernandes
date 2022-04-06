@@ -12,6 +12,5 @@ Sou desenvolvedor full-stack :computer:. Apaixonado pela área de TI, estudando 
  <br/> 💬  &nbsp; Sobre mim: Acima de qualquer coisa sou cristão, curto tecnologias desde sempre, sou um gamer nato 😎🎮 e adoro assistir séries em geral!
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarcioFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-fernandes-5252061a9/)](https://www.linkedin.com/in/marcio-fernandes-5252061a9/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-farciomernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farciomernandes@gmail.com)](mailto:gbdesigns13@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-farciomernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farciomernandes@gmail.com)](mailto:farciomernandes@gmail.com) 
 | 
-[![Behance Badge](https://img.shields.io/badge/-GBDesigns-1769ff?style=flat-square)]
