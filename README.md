@@ -14,5 +14,4 @@ Sou desenvolvedor full-stack :computer:. Apaixonado pela área de TI, estudando 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-farciomernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farciomernandes@gmail.com)](mailto:gbdesigns13@gmail.com) 
 | 
-[![Behance Badge](https://img.shields.io/badge/-GBDesigns-1769ff?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/gbdesigns1)](https://www.behance.net/gbdesigns1)
-a
+[![Behance Badge](https://img.shields.io/badge/-GBDesigns-1769ff?style=flat-square)]
