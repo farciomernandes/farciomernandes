@@ -13,4 +13,3 @@ Sou desenvolvedor full-stack :computer:. Apaixonado pela área de TI, estudando 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarcioFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-fernandes-5252061a9/)](https://www.linkedin.com/in/marcio-fernandes-5252061a9/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-farciomernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farciomernandes@gmail.com)](mailto:farciomernandes@gmail.com) 
-| 
