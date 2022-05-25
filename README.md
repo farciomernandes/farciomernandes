@@ -5,7 +5,7 @@
 ## Olá pessoal, tudo bem 👋
 Sou desenvolvedor full-stack :computer:. Apaixonado pela área de TI, estudando e aprendendo cada vez mais!
 
- :rocket:  &nbsp; Atualmente trabalho como desenvolvedor fullstack na **Korporate**
+ :rocket:  &nbsp; Atualmente trabalho como desenvolvedor fullstack na **UseMobile**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em React/Node/Java
  <br/> :blush: &nbsp; Posso te ajudar com CSS, Styled components, HTML, React, Next.js, Node.js, Java e React Native
  <br/> :computer: &nbsp; Minha stack: ReactJS, Java, Next.js, Node.js e Typescript
