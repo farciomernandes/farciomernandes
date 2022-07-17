@@ -5,12 +5,9 @@
 ## Olá pessoal, tudo bem 👋
 Sou desenvolvedor full-stack :computer:. Apaixonado pela área de TI, estudando e aprendendo cada vez mais!
 
-## 📊 &nbsp;GitHub Análises
-
-<p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=farciomernandes&show_icons=true&theme=highcontrast" alt="jomarfranca stats"/>
 <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farciomernandes&langs_count=10&layout=compact&theme=highcontrast" alt="jomarfranca stats"/>
-</p>
+
 
  :rocket:  &nbsp; Atualmente trabalho como desenvolvedor fullstack na **UseMobile**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em React/Node/Java
